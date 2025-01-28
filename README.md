@@ -39,9 +39,3 @@ This project explores and compares the performance of three widely-used stochast
 - Extend the comparison to convolutional neural networks (CNNs).
 - Explore additional optimizers like SGD with momentum or Nadam.
 - Apply the analysis to larger datasets like CIFAR-10 or ImageNet.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/MNIST-Optimizer-Comparison.git
-   cd MNIST-Optimizer-Comparison
